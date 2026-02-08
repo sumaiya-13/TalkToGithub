@@ -31,6 +31,9 @@ create repo
 ```
 And the UI navigates automatically.
 
+## YouTube link:
+https://youtu.be/2doBkaW0vP4?si=pVBARLdKOw2NC8Hn
+
 ## 🤖 Where Tambo Is Used
 
 Tambo is used for:
