@@ -35,6 +35,43 @@ Backend → Tambo → Intent →
 Extension executes navigation →
 GitHub page changes
 
+## 🧠 ✅ REQUIRED INSTALLS (React App)
+
+Go inside:
+```bash
+cd github-command-extension/react-app
+```
+
+Then install:
+
+### ⭐ Core React + Build
+```bash
+npm install react react-dom
+npm install vite @vitejs/plugin-react
+```
+
+### ⭐ Tambo SDK (Hackathon Requirement)
+
+You already did, but listing clean:
+```bash
+npm install @tambo-ai/react
+```
+
+ “we used Tambo” checkbox.
+
+### ⭐ Optional (But Realistic Project Quality)
+Axios (if calling backend)
+```bash
+npm install axios
+```
+Environment Variables
+```bash
+npm install dotenv
+```
+
+(Not always needed in frontend)
+
+
 ## Install Extension (Developer Mode)
 
 1️⃣ Open Chrome

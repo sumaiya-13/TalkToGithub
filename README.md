@@ -26,7 +26,7 @@ Users simply type:
 open my repos
 open repo TalkToGithub
 go to profile
-show issues
+create repo
 
 ```
 And the UI navigates automatically.
