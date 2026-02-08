@@ -38,6 +38,11 @@ It acts as the bridge between:
 
 - GitHub REST API
 
+## install
+```bash
+npm install express cors dotenv axios
+```
+
 ## API Endpoints
 Health Check
 ```bash
